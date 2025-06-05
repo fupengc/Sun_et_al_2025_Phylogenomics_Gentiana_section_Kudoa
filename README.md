@@ -15,7 +15,7 @@ includes the 1503 Single Copy genes of Gentiana section Kudoa after filtering un
 3. 19-taxon_Gentiana:
 Single Copy genes with 19 taxon in Gentiana for PhyloNet analysis.
 
-4.20-taxon_section_Kudoa:
+  4. 20-taxon_section_Kudoa:
 Single Copy genes with 19 taxon in Gentiana section Kudoa for PhyloNet analysis.
 
 5. Plastomes_in_Gentiana: 
